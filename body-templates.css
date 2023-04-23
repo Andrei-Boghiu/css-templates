@@ -1,0 +1,8 @@
+body {
+  background: #2B3246;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 1.5em;
+}

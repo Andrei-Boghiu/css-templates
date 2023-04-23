@@ -1,0 +1,34 @@
+.blue-button {
+  border-radius: 5px;
+  text-align: center;
+  justify-content: center;
+  padding: 10px;
+  background-color: #2B3246;
+  cursor: default ;
+  color: rgb(82, 125, 243);
+  margin: 10px;
+}
+
+.blue-button:hover
+{
+  background-color: rgba(82, 125, 243, 0.80);
+  color: black;
+  transition:0.5s;
+}
+
+.orange-button {
+  border-radius: 5px;
+  text-align: center;
+  justify-content: center;
+  padding: 10px;
+  background-color: #2B3246;
+  cursor: default;
+  color: rgb(247, 149, 72);
+  margin: 20px;
+}
+
+.orange-button:hover{
+  background-color: rgba(247, 149, 73, 0.50);
+  color: black;
+  transition:0.5s;
+}

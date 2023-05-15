@@ -6,17 +6,17 @@ button {
     border: 2px solid #72d0f7;
     padding: 0 12px;
     height: 35px;
-    border-radius: 6px;
+    border-radius: 8px;
     background-color: rgb(120, 210, 245);
     color: #fff;
     font-size: 16px;
     box-shadow: 0 6px 18px 0 rgb(0, 179, 255, 0.4);
-    animation: float 6s ease-in-out infinite;
+    animation: float 5s ease-in-out infinite;
     transform: translatey(0px);
 
 }
 button:hover {
     background: rgb(0, 179, 255, 0.9);
-    box-shadow: 0 4px 26px 0 rgb(0, 179, 255);
+    box-shadow: 0 4px 26px 0 rgb(1, 179, 255);
     }
 /* /////////////////////////////////////////////////////////////////// */
